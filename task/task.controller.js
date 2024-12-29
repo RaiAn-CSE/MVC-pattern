@@ -1,5 +1,4 @@
 const Task = require("./task.model");
-const redisClient = require('../config/redis');
 
 // Create task
 const taskCreate = async (req, res) => {

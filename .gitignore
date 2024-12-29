@@ -12,8 +12,8 @@ pids
 *.pid.lock
 
 # Dependency directories
-node_modules/
-jspm_packages/
+node_modules
+jspm_packages
 
 # Environment files
 .env
